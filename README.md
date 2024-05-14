@@ -28,7 +28,7 @@ pip install pandas numpy matplotlib scikit-learn
    Save the dataset from [here](http://bit.ly/w-data).
 
 ## Code 
-**Code is given in respository.** 
+**Code is given [here](taskmachinelearning(tsf).ipynb) in respository.** 
 
 ## Methodology
 
